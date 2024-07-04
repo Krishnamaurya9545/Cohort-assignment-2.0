@@ -10,3 +10,5 @@ class Animal {
 }
 
 
+let dog=new Animal("dogie",4); //create object
+console.log(dog.describe()); //call function on object
